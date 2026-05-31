@@ -48,8 +48,9 @@ Git · GitHub · Gradle · npm · Postman
 <br />
 
 ### 💍 Nuvelle Wedding
-모바일 청첩장 제작 및 공유 웹 서비스  
+모바일 청첩장 제작·공유와 AI 기반 신혼여행 플래너를 제공하는 웹 서비스
 🔗 https://github.com/nuring9/nuvelle_wedding
+🌐 Deploy: https://nuvelle-wedding.site/
 
 <br />
 <br />
