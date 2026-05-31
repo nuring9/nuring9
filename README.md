@@ -12,17 +12,27 @@ Java, Spring Boot, React, Next.js를 활용해 서비스를 개발하는
 ## 🛠 Tech Stack
 
 **Frontend**  
-React · Next.js · TypeScript · JavaScript · Tailwind CSS
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · Zustand · Axios
 
 <br />
 
 **Backend**  
-Java · Spring Boot · Spring Security · JPA · JWT
+Java · Spring Boot · Spring Security · Spring Data JPA · JWT · REST API
 
 <br />
 
-**Database & Infra**  
-MySQL · Redis · AWS EC2 · AWS S3 · AWS CloudFront · Docker
+**Database & Storage 
+MySQL · AWS RDS · Redis · AWS S3
+
+<br />
+
+**Infra & Deployment
+AWS EC2 · AWS CloudFront · Docker · Docker Compose · Nginx
+
+<br />
+
+**Tools
+Git · GitHub · Gradle · npm · Postman
 
 <br />
 <br />
