@@ -21,17 +21,17 @@ Java · Spring Boot · Spring Security · Spring Data JPA · JWT · REST API
 
 <br />
 
-**Database & Storage 
+**Database & Storage**  
 MySQL · AWS RDS · Redis · AWS S3
 
 <br />
 
-**Infra & Deployment
+**Infra & Deployment**  
 AWS EC2 · AWS CloudFront · Docker · Docker Compose · Nginx
 
 <br />
 
-**Tools
+**Tools**  
 Git · GitHub · Gradle · npm · Postman
 
 <br />
