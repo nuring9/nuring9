@@ -41,7 +41,7 @@ Git · GitHub · Gradle · npm · Postman
 
 ## 🚀 Projects
 
-### 💆 Skin Clinic
+#### 💆 Skin Clinic
 
 피부 설문 기반 맞춤 시술 추천 및 예약·상담 웹 서비스
 
@@ -49,7 +49,7 @@ Git · GitHub · Gradle · npm · Postman
 
 <br />
 
-### 💍 Nuvelle Wedding
+#### 💍 Nuvelle Wedding
 
 모바일 청첩장 제작·공유와 AI 기반 신혼여행 플래너를 제공하는 웹 서비스
 
